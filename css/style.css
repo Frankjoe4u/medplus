@@ -91,7 +91,7 @@ a{
     transform:rotate(45deg);
     top:0;
 }
-@media (min-width:48em){
+@media (min-width:767px){
 .header li{
 float:left;
 }
